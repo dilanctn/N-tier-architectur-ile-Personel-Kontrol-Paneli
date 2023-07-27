@@ -1,0 +1,6 @@
+C:\Dilan\source\Mydağ-2022-Udemy-C#\Proje-NKatmanlıMimari\EntityLayerr\bin\Debug\EntityLayerr.dll
+C:\Dilan\source\Mydağ-2022-Udemy-C#\Proje-NKatmanlıMimari\EntityLayerr\bin\Debug\EntityLayerr.pdb
+C:\Dilan\source\Mydağ-2022-Udemy-C#\Proje-NKatmanlıMimari\EntityLayerr\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+C:\Dilan\source\Mydağ-2022-Udemy-C#\Proje-NKatmanlıMimari\EntityLayerr\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Dilan\source\Mydağ-2022-Udemy-C#\Proje-NKatmanlıMimari\EntityLayerr\obj\Debug\EntityLayerr.dll
+C:\Dilan\source\Mydağ-2022-Udemy-C#\Proje-NKatmanlıMimari\EntityLayerr\obj\Debug\EntityLayerr.pdb

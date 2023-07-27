@@ -1,0 +1,11 @@
+C:\Dilan\source\Mydağ-2022-Udemy-C#\Proje-NKatmanlıMimari\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Dilan\source\Mydağ-2022-Udemy-C#\Proje-NKatmanlıMimari\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Dilan\source\Mydağ-2022-Udemy-C#\Proje-NKatmanlıMimari\LogicLayer\bin\Debug\DAL-DataAccessLayer.dll
+C:\Dilan\source\Mydağ-2022-Udemy-C#\Proje-NKatmanlıMimari\LogicLayer\bin\Debug\EntityLayerr.dll
+C:\Dilan\source\Mydağ-2022-Udemy-C#\Proje-NKatmanlıMimari\LogicLayer\bin\Debug\DAL-DataAccessLayer.pdb
+C:\Dilan\source\Mydağ-2022-Udemy-C#\Proje-NKatmanlıMimari\LogicLayer\bin\Debug\EntityLayerr.pdb
+C:\Dilan\source\Mydağ-2022-Udemy-C#\Proje-NKatmanlıMimari\LogicLayer\obj\Debug\LogicLayer.csproj.AssemblyReference.cache
+C:\Dilan\source\Mydağ-2022-Udemy-C#\Proje-NKatmanlıMimari\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Dilan\source\Mydağ-2022-Udemy-C#\Proje-NKatmanlıMimari\LogicLayer\obj\Debug\LogicLayer.csproj.CopyComplete
+C:\Dilan\source\Mydağ-2022-Udemy-C#\Proje-NKatmanlıMimari\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Dilan\source\Mydağ-2022-Udemy-C#\Proje-NKatmanlıMimari\LogicLayer\obj\Debug\LogicLayer.pdb

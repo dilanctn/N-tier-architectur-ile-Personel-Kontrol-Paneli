@@ -1,0 +1,9 @@
+C:\Dilan\source\Mydağ-2022-Udemy-C#\Proje-NKatmanlıMimari\DAL-DataAccessLayer\bin\Debug\DAL-DataAccessLayer.dll
+C:\Dilan\source\Mydağ-2022-Udemy-C#\Proje-NKatmanlıMimari\DAL-DataAccessLayer\bin\Debug\DAL-DataAccessLayer.pdb
+C:\Dilan\source\Mydağ-2022-Udemy-C#\Proje-NKatmanlıMimari\DAL-DataAccessLayer\bin\Debug\EntityLayerr.dll
+C:\Dilan\source\Mydağ-2022-Udemy-C#\Proje-NKatmanlıMimari\DAL-DataAccessLayer\bin\Debug\EntityLayerr.pdb
+C:\Dilan\source\Mydağ-2022-Udemy-C#\Proje-NKatmanlıMimari\DAL-DataAccessLayer\obj\Debug\DAL-DataAccessLayer.csproj.AssemblyReference.cache
+C:\Dilan\source\Mydağ-2022-Udemy-C#\Proje-NKatmanlıMimari\DAL-DataAccessLayer\obj\Debug\DAL-DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Dilan\source\Mydağ-2022-Udemy-C#\Proje-NKatmanlıMimari\DAL-DataAccessLayer\obj\Debug\DAL-DataAccessLayer.csproj.CopyComplete
+C:\Dilan\source\Mydağ-2022-Udemy-C#\Proje-NKatmanlıMimari\DAL-DataAccessLayer\obj\Debug\DAL-DataAccessLayer.dll
+C:\Dilan\source\Mydağ-2022-Udemy-C#\Proje-NKatmanlıMimari\DAL-DataAccessLayer\obj\Debug\DAL-DataAccessLayer.pdb
